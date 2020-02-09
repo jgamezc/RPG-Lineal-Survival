@@ -11,6 +11,7 @@ El juego contara con los siguientes niveles de dificultad:
    - Normal
    - Dificil
    - Insano
+
 Para desbloquear el modo insano es necesario desbloquear alguna mejora de arma.
 #### Generacion aleatoria de mapas
 Cada run esta dividida en 3 diferentes pisos cuya distribucion de salas internas sera generada de forma aleatoria, siguiendo unos parametros establecidos.
