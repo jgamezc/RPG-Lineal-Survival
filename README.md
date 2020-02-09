@@ -15,7 +15,8 @@ Para desbloquear el modo insano es necesario desbloquear alguna mejora de arma.
 #### Generacion aleatoria de mapas
 Cada run esta dividida en 3 diferentes pisos cuya distribucion de salas internas sera generada de forma aleatoria, siguiendo unos parametros establecidos.
 
-    Ejemplo de uno de los pisos:
+Ejemplo piso:
+![](Imagenes/Ejemplo_Mapa.png)
     
 #### Generacion de enemigos
 En cada sala se generaran grupos de enemigos con distintas secuencias de combate previamente establecidas
