@@ -35,3 +35,6 @@ Durante el transcurso de cada partida, espesificamente en cada uno de  los pisos
 Mismo funcionamiento que las pasivas (en lo que a obtencion se refiere) pero estas seran activables y con una cantidad de usos determinada.
 #### Lenguaje Maduro
 Lenguaje maduro...
+
+Links de ayuda: 
+https://github.com/marukrap/RoguelikeDevResources (Generacion de mapa)
